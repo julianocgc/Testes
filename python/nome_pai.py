@@ -1,2 +1,2 @@
-nome_pai = 'Vitor Guimarães Corrêa'
+nome_pai = 'Vitor'
 print(nome_pai)
